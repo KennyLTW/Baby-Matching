@@ -8,4 +8,5 @@ The game has 3 difficult level(easy, medium and difficult), different levels wil
 In the time limit, player need to match all card pattern which add 100 score when you match one pair.
 
 </br>
+</br>
 Development tool: Android Studio
