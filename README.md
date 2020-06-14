@@ -9,4 +9,4 @@ In the time limit, player need to match all card pattern which add 100 score whe
 
 </br>
 </br>
-Development tool: Android Studio
+Development tool: Android Studio/Java
