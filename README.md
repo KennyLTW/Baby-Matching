@@ -16,6 +16,8 @@ Development tool: Android Studio/Java
 Screenshot:
 </br>
 Start screen:
+![image](https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223753_Baby_Matching.jpg)
+
 
 </br>
 Game screen:
