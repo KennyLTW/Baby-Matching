@@ -16,11 +16,42 @@ Development tool: Android Studio/Java
 Screenshot:
 </br>
 Start screen:
-![image](https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223753_Baby_Matching.jpg)
-
-
+<table>
+  <tr>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223753_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223758_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+  </tr>
+  </table>
+  
 </br>
 Game screen:
+<table>
+  <tr>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223804_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223808_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+        <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223831_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+  </tr>
+  </table>
 
 </br>
 Ranking screen:
+<table>
+  <tr>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223902_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+    <th>
+<img src="https://github.com/KennyLTW/Baby-Matching/blob/master/Screenshot/Screenshot_20200617-223909_Baby_Matching.jpg" width="200" height=""> 
+    </th>
+  </tr>
+  </table>
