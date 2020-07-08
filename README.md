@@ -1,4 +1,4 @@
-# ABaby-Matching
+# Android Application: Baby-Matching
 a simple matching game for 2 to 5 years old children in Android platform
 
 </br>
